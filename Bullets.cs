@@ -13,9 +13,11 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
         mmmmmmmmm
 
 
+
 deneme
 lkslaksdlaksjdalksþalkþalskþals
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+shahdahdajhduag
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
     player.photonView.RPC("TakeDamage", RpcTarget.All);

@@ -4,11 +4,14 @@ using UnityEngine;
 using Photon.Pun;
 public class Bullets : MonoBehaviourPunCallbacks
 {
+
     private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+
     merhaba
         merhaba
         mmmmmmmmm
+
 
 deneme
 lkslaksdlaksjdalksþalkþalskþals

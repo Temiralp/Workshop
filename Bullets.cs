@@ -10,8 +10,8 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+    hooterId = shooterId;GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+  hooterId = shooterId;GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
   GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
   GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si

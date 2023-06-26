@@ -16,8 +16,8 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 deneme
 lkslaksdlaksjdalksþalkþalskþals
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+                       // Update is called once per frame
+    private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
     player.photonView.RPC("TakeDamage", RpcTarget.All);
             PhotonNetwork.Destroy(gameObject);
 

@@ -27,6 +27,8 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 public void Initialize(int shooterId)
     {
         this.shooterId = shooterId;
+
+this.shooterId = shooterId;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -36,6 +38,10 @@ public void Initialize(int shooterId)
         {
             player.photonView.RPC("TakeDamage", RpcTarget.All);
             PhotonNetwork.Destroy(gameObject);
+
+player.photonView.RPC("TakeDamage", RpcTarget.All);
+            PhotonNetwork.Destroy(gameObject);
         }
+
     }
 }

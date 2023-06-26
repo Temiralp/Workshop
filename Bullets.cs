@@ -26,6 +26,10 @@ public void Initialize(int shooterId)
         {
             player.photonView.RPC("TakeDamage", RpcTarget.All);
             PhotonNetwork.Destroy(gameObject);
+
+player.photonView.RPC("TakeDamage", RpcTarget.All);
+            PhotonNetwork.Destroy(gameObject);
         }
+
     }
 }

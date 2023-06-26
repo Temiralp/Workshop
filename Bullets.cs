@@ -9,6 +9,16 @@ public class Bullets : MonoBehaviourPunCallbacks
   GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
 
     private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 
     void Start()
     {

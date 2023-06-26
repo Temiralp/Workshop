@@ -5,6 +5,16 @@ using Photon.Pun;
 public class Bullets : MonoBehaviourPunCallbacks
 {
     private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 
     void Start()
     {

@@ -17,6 +17,8 @@ public class Bullets : MonoBehaviourPunCallbacks
 public void Initialize(int shooterId)
     {
         this.shooterId = shooterId;
+
+this.shooterId = shooterId;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

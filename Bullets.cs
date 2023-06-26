@@ -7,6 +7,7 @@ public class Bullets : MonoBehaviourPunCallbacks
 
     private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
@@ -22,6 +23,23 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 
+    merhaba
+        merhaba
+        mmmmmmmmm
+
+
+
+deneme
+lkslaksdlaksjdalksþalkþalskþals
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+shahdahdajhduag
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+    player.photonView.RPC("TakeDamage", RpcTarget.All);
+            PhotonNetwork.Destroy(gameObject);
+
+player.photonView.RPC("TakeDamage", RpcTarget.All);
+            PhotonNetwork.Destroy(gameObject);
     void Start()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;

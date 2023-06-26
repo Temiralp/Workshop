@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
 public class Bullets : MonoBehaviourPunCallbacks
-{  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+{
 
     private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si

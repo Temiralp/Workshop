@@ -1,13 +1,19 @@
 using Photon.Pun;
 using Photon.Realtime;
 using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class NetworkManager : MonoBehaviourPunCallbacks
-{
-    public GameObject playerPrefab; // Oyuncu odaya katýldýðýnda oluþturulacak oyuncu prefab'ý
-    private string gameVersion = "1"; // Oyunun sürümü, uyumluluk amaçlarý için kullanýlýr
+asdfasdfasd
+    asdfasfsdfsd
+    sdfasdfewasdf
+    werwerwe
+    xzxfvsdfasdf
+    zxcvsdfasfs
+    asdfasdfa
+    sfasdfasdfvxcvz
+    vfa
+    werwerqwerqwe
+    asdfas
+    dgas
+    dfgawgfaw
 
     void Start()
     {

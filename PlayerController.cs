@@ -5,6 +5,15 @@ using Photon.Pun;
 
 public class PlayerController : MonoBehaviourPunCallbacks
 {
+    fghjfghj
+        fghjfghd
+        sdfgtytfg
+        cvhfgdh
+        fhdfghdfhdfghsdf
+        gsdfg
+        sdfgsdfgsd
+        fgsfgsfdbd
+        gfs
     private Rigidbody2D rb;
     public GameObject bullet;
     public GameObject bulletPos;

@@ -19,8 +19,9 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 hýhjghýkjb
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+    player.photonView.RPC("TakeDamage", RpcTarget.All);
+            PhotonNetwork.Destroy(gameObject);
+    void Start()
 private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 
     merhaba

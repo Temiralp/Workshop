@@ -5,24 +5,26 @@ using Photon.Pun;
 public class Bullets : MonoBehaviourPunCallbacks
 {
 
-    private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+    private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
 
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
     hooterId = shooterId;GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  hooterId = shooterId;GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
+  deneme 1,2 
+  deneme 1,2 
+  deneme 1,2 
+  deneme 1,2 
   GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-  GetComponent<Rigidbody2D>().velocity = Vector2.right * 20f;
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-hýhjghýkjb
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
+hï¿½hjghï¿½kjb
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
     player.photonView.RPC("TakeDamage", RpcTarget.All);
             PhotonNetwork.Destroy(gameObject);
     void Start()
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
 
     merhaba
         merhaba
@@ -31,14 +33,14 @@ private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
 
 
 deneme
-lkslaksdlaksjdalksþalkþalskþals
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+lkslaksdlaksjdalksï¿½alkï¿½alskï¿½als
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
 
                        // Update is called once per frame
-    private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+    private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
 
 shahdahdajhduag
-private int shooterId; // Atýþý gerçekleþtiren oyuncunun ID'si
+private int shooterId; // Atï¿½ï¿½ï¿½ gerï¿½ekleï¿½tiren oyuncunun ID'si
 
     player.photonView.RPC("TakeDamage", RpcTarget.All);
             PhotonNetwork.Destroy(gameObject);
